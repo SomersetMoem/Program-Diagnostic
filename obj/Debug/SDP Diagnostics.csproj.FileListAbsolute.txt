@@ -1,0 +1,21 @@
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\bin\Debug\SDP Diagnostics.exe.config
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\bin\Debug\SDP Diagnostics.exe
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\bin\Debug\SDP Diagnostics.pdb
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.exe
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.pdb
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.AssemblyReference.cache
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\Interop.Shell32.dll
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.ResolveComReference.cache
+C:\Users\Василевский НА\source\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Debug\SDP Diagnostics.exe.config
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Debug\SDP Diagnostics.exe
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Debug\SDP Diagnostics.pdb
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.AssemblyReference.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.SuggestedBindingRedirects.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\Interop.Shell32.dll
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.ResolveComReference.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.csproj.CoreCompileInputs.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.exe
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Debug\SDP Diagnostics.pdb

@@ -1,0 +1,15 @@
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Release\SDP Diagnostics.exe.config
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Release\SDP Diagnostics.exe.manifest
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Release\SDP Diagnostics.application
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Release\SDP Diagnostics.exe
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\bin\Release\SDP Diagnostics.pdb
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.csproj.AssemblyReference.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.csproj.SuggestedBindingRedirects.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\Interop.Shell32.dll
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.csproj.ResolveComReference.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.csproj.CoreCompileInputs.cache
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.exe.manifest
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.application
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.exe
+D:\Инфа с системного диска\repos\SDP Diagnostics\SDP Diagnostics\obj\Release\SDP Diagnostics.pdb
